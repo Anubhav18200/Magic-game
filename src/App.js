@@ -11,7 +11,8 @@ const cardImages = [
 
 function App() {
 
-  // shuffle cards
+  // shuffle cards temo
+  
   const shuffleCards = () => {
     const shuffleCards = [...cardImages, ...cardImages];
   }
