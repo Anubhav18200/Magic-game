@@ -13,7 +13,7 @@ function App() {
 
   // shuffle cards
   const shuffleCards = () => {
-    const shuffleCards = [...cardImages, ...cardImages]
+    const shuffleCards = [...cardImages, ...cardImages];
   }
 
   return (
